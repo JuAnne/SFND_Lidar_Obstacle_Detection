@@ -1,0 +1,2290 @@
+starting enviroment
+filtering took 7 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 153 data points.
+PointCloud representing the Cluster: 145 data points.
+PointCloud representing the Cluster: 115 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 93 data points.
+PointCloud representing the Cluster: 64 data points.
+PointCloud representing the Cluster: 49 data points.
+clustering took 3 milliseconds and found 7 clusters
+cluster size 153
+cluster size 145
+cluster size 115
+cluster size 97
+cluster size 93
+cluster size 64
+cluster size 49
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 213 data points.
+PointCloud representing the Cluster: 144 data points.
+PointCloud representing the Cluster: 127 data points.
+PointCloud representing the Cluster: 93 data points.
+PointCloud representing the Cluster: 81 data points.
+PointCloud representing the Cluster: 48 data points.
+PointCloud representing the Cluster: 13 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 213
+cluster size 144
+cluster size 127
+cluster size 93
+cluster size 81
+cluster size 48
+cluster size 13
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 237 data points.
+PointCloud representing the Cluster: 128 data points.
+PointCloud representing the Cluster: 124 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 81 data points.
+PointCloud representing the Cluster: 58 data points.
+PointCloud representing the Cluster: 11 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 237
+cluster size 128
+cluster size 124
+cluster size 97
+cluster size 81
+cluster size 58
+cluster size 11
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 241 data points.
+PointCloud representing the Cluster: 118 data points.
+PointCloud representing the Cluster: 117 data points.
+PointCloud representing the Cluster: 83 data points.
+PointCloud representing the Cluster: 65 data points.
+PointCloud representing the Cluster: 55 data points.
+PointCloud representing the Cluster: 32 data points.
+PointCloud representing the Cluster: 18 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 241
+cluster size 118
+cluster size 117
+cluster size 83
+cluster size 65
+cluster size 55
+cluster size 32
+cluster size 18
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 247 data points.
+PointCloud representing the Cluster: 106 data points.
+PointCloud representing the Cluster: 100 data points.
+PointCloud representing the Cluster: 69 data points.
+PointCloud representing the Cluster: 57 data points.
+PointCloud representing the Cluster: 46 data points.
+PointCloud representing the Cluster: 43 data points.
+PointCloud representing the Cluster: 19 data points.
+PointCloud representing the Cluster: 13 data points.
+clustering took 2 milliseconds and found 9 clusters
+cluster size 247
+cluster size 106
+cluster size 100
+cluster size 69
+cluster size 57
+cluster size 46
+cluster size 43
+cluster size 19
+cluster size 13
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 256 data points.
+PointCloud representing the Cluster: 111 data points.
+PointCloud representing the Cluster: 98 data points.
+PointCloud representing the Cluster: 69 data points.
+PointCloud representing the Cluster: 68 data points.
+PointCloud representing the Cluster: 38 data points.
+PointCloud representing the Cluster: 31 data points.
+PointCloud representing the Cluster: 25 data points.
+PointCloud representing the Cluster: 11 data points.
+clustering took 2 milliseconds and found 9 clusters
+cluster size 256
+cluster size 111
+cluster size 98
+cluster size 69
+cluster size 68
+cluster size 38
+cluster size 31
+cluster size 25
+cluster size 11
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 236 data points.
+PointCloud representing the Cluster: 116 data points.
+PointCloud representing the Cluster: 96 data points.
+PointCloud representing the Cluster: 73 data points.
+PointCloud representing the Cluster: 65 data points.
+PointCloud representing the Cluster: 54 data points.
+PointCloud representing the Cluster: 40 data points.
+PointCloud representing the Cluster: 16 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 236
+cluster size 116
+cluster size 96
+cluster size 73
+cluster size 65
+cluster size 54
+cluster size 40
+cluster size 16
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 235 data points.
+PointCloud representing the Cluster: 121 data points.
+PointCloud representing the Cluster: 111 data points.
+PointCloud representing the Cluster: 94 data points.
+PointCloud representing the Cluster: 81 data points.
+PointCloud representing the Cluster: 78 data points.
+PointCloud representing the Cluster: 38 data points.
+PointCloud representing the Cluster: 11 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 235
+cluster size 121
+cluster size 111
+cluster size 94
+cluster size 81
+cluster size 78
+cluster size 38
+cluster size 11
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 238 data points.
+PointCloud representing the Cluster: 126 data points.
+PointCloud representing the Cluster: 119 data points.
+PointCloud representing the Cluster: 93 data points.
+PointCloud representing the Cluster: 73 data points.
+PointCloud representing the Cluster: 73 data points.
+PointCloud representing the Cluster: 37 data points.
+PointCloud representing the Cluster: 15 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 238
+cluster size 126
+cluster size 119
+cluster size 93
+cluster size 73
+cluster size 73
+cluster size 37
+cluster size 15
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 188 data points.
+PointCloud representing the Cluster: 125 data points.
+PointCloud representing the Cluster: 110 data points.
+PointCloud representing the Cluster: 83 data points.
+PointCloud representing the Cluster: 76 data points.
+PointCloud representing the Cluster: 74 data points.
+PointCloud representing the Cluster: 35 data points.
+PointCloud representing the Cluster: 34 data points.
+PointCloud representing the Cluster: 17 data points.
+clustering took 2 milliseconds and found 9 clusters
+cluster size 188
+cluster size 125
+cluster size 110
+cluster size 83
+cluster size 76
+cluster size 74
+cluster size 35
+cluster size 34
+cluster size 17
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 337 data points.
+PointCloud representing the Cluster: 131 data points.
+PointCloud representing the Cluster: 87 data points.
+PointCloud representing the Cluster: 84 data points.
+PointCloud representing the Cluster: 78 data points.
+PointCloud representing the Cluster: 33 data points.
+PointCloud representing the Cluster: 11 data points.
+PointCloud representing the Cluster: 10 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 337
+cluster size 131
+cluster size 87
+cluster size 84
+cluster size 78
+cluster size 33
+cluster size 11
+cluster size 10
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 220 data points.
+PointCloud representing the Cluster: 136 data points.
+PointCloud representing the Cluster: 127 data points.
+PointCloud representing the Cluster: 105 data points.
+PointCloud representing the Cluster: 89 data points.
+PointCloud representing the Cluster: 87 data points.
+PointCloud representing the Cluster: 47 data points.
+clustering took 3 milliseconds and found 7 clusters
+cluster size 220
+cluster size 136
+cluster size 127
+cluster size 105
+cluster size 89
+cluster size 87
+cluster size 47
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 193 data points.
+PointCloud representing the Cluster: 136 data points.
+PointCloud representing the Cluster: 122 data points.
+PointCloud representing the Cluster: 102 data points.
+PointCloud representing the Cluster: 90 data points.
+PointCloud representing the Cluster: 85 data points.
+PointCloud representing the Cluster: 49 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 193
+cluster size 136
+cluster size 122
+cluster size 102
+cluster size 90
+cluster size 85
+cluster size 49
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 202 data points.
+PointCloud representing the Cluster: 139 data points.
+PointCloud representing the Cluster: 122 data points.
+PointCloud representing the Cluster: 86 data points.
+PointCloud representing the Cluster: 84 data points.
+PointCloud representing the Cluster: 82 data points.
+PointCloud representing the Cluster: 52 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 202
+cluster size 139
+cluster size 122
+cluster size 86
+cluster size 84
+cluster size 82
+cluster size 52
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 178 data points.
+PointCloud representing the Cluster: 130 data points.
+PointCloud representing the Cluster: 123 data points.
+PointCloud representing the Cluster: 101 data points.
+PointCloud representing the Cluster: 90 data points.
+PointCloud representing the Cluster: 74 data points.
+PointCloud representing the Cluster: 54 data points.
+PointCloud representing the Cluster: 28 data points.
+clustering took 3 milliseconds and found 8 clusters
+cluster size 178
+cluster size 130
+cluster size 123
+cluster size 101
+cluster size 90
+cluster size 74
+cluster size 54
+cluster size 28
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 129 data points.
+PointCloud representing the Cluster: 125 data points.
+PointCloud representing the Cluster: 111 data points.
+PointCloud representing the Cluster: 95 data points.
+PointCloud representing the Cluster: 93 data points.
+PointCloud representing the Cluster: 91 data points.
+PointCloud representing the Cluster: 83 data points.
+PointCloud representing the Cluster: 57 data points.
+PointCloud representing the Cluster: 12 data points.
+clustering took 3 milliseconds and found 9 clusters
+cluster size 129
+cluster size 125
+cluster size 111
+cluster size 95
+cluster size 93
+cluster size 91
+cluster size 83
+cluster size 57
+cluster size 12
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 131 data points.
+PointCloud representing the Cluster: 122 data points.
+PointCloud representing the Cluster: 107 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 67 data points.
+PointCloud representing the Cluster: 61 data points.
+PointCloud representing the Cluster: 55 data points.
+PointCloud representing the Cluster: 15 data points.
+clustering took 2 milliseconds and found 9 clusters
+cluster size 131
+cluster size 122
+cluster size 107
+cluster size 97
+cluster size 97
+cluster size 67
+cluster size 61
+cluster size 55
+cluster size 15
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 175 data points.
+PointCloud representing the Cluster: 121 data points.
+PointCloud representing the Cluster: 102 data points.
+PointCloud representing the Cluster: 100 data points.
+PointCloud representing the Cluster: 96 data points.
+PointCloud representing the Cluster: 74 data points.
+PointCloud representing the Cluster: 59 data points.
+PointCloud representing the Cluster: 16 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 175
+cluster size 121
+cluster size 102
+cluster size 100
+cluster size 96
+cluster size 74
+cluster size 59
+cluster size 16
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 194 data points.
+PointCloud representing the Cluster: 124 data points.
+PointCloud representing the Cluster: 105 data points.
+PointCloud representing the Cluster: 88 data points.
+PointCloud representing the Cluster: 86 data points.
+PointCloud representing the Cluster: 68 data points.
+PointCloud representing the Cluster: 60 data points.
+PointCloud representing the Cluster: 20 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 194
+cluster size 124
+cluster size 105
+cluster size 88
+cluster size 86
+cluster size 68
+cluster size 60
+cluster size 20
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 206 data points.
+PointCloud representing the Cluster: 129 data points.
+PointCloud representing the Cluster: 106 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 77 data points.
+PointCloud representing the Cluster: 67 data points.
+PointCloud representing the Cluster: 53 data points.
+PointCloud representing the Cluster: 26 data points.
+PointCloud representing the Cluster: 19 data points.
+clustering took 3 milliseconds and found 9 clusters
+cluster size 206
+cluster size 129
+cluster size 106
+cluster size 97
+cluster size 77
+cluster size 67
+cluster size 53
+cluster size 26
+cluster size 19
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 205 data points.
+PointCloud representing the Cluster: 150 data points.
+PointCloud representing the Cluster: 107 data points.
+PointCloud representing the Cluster: 89 data points.
+PointCloud representing the Cluster: 77 data points.
+PointCloud representing the Cluster: 72 data points.
+PointCloud representing the Cluster: 38 data points.
+PointCloud representing the Cluster: 33 data points.
+PointCloud representing the Cluster: 20 data points.
+PointCloud representing the Cluster: 13 data points.
+clustering took 2 milliseconds and found 10 clusters
+cluster size 205
+cluster size 150
+cluster size 107
+cluster size 89
+cluster size 77
+cluster size 72
+cluster size 38
+cluster size 33
+cluster size 20
+cluster size 13
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 214 data points.
+PointCloud representing the Cluster: 155 data points.
+PointCloud representing the Cluster: 109 data points.
+PointCloud representing the Cluster: 82 data points.
+PointCloud representing the Cluster: 82 data points.
+PointCloud representing the Cluster: 81 data points.
+PointCloud representing the Cluster: 73 data points.
+PointCloud representing the Cluster: 18 data points.
+PointCloud representing the Cluster: 16 data points.
+clustering took 3 milliseconds and found 9 clusters
+cluster size 214
+cluster size 155
+cluster size 109
+cluster size 82
+cluster size 82
+cluster size 81
+cluster size 73
+cluster size 18
+cluster size 16
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 153 data points.
+PointCloud representing the Cluster: 145 data points.
+PointCloud representing the Cluster: 115 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 93 data points.
+PointCloud representing the Cluster: 64 data points.
+PointCloud representing the Cluster: 49 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 153
+cluster size 145
+cluster size 115
+cluster size 97
+cluster size 93
+cluster size 64
+cluster size 49
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 213 data points.
+PointCloud representing the Cluster: 144 data points.
+PointCloud representing the Cluster: 127 data points.
+PointCloud representing the Cluster: 93 data points.
+PointCloud representing the Cluster: 81 data points.
+PointCloud representing the Cluster: 48 data points.
+PointCloud representing the Cluster: 13 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 213
+cluster size 144
+cluster size 127
+cluster size 93
+cluster size 81
+cluster size 48
+cluster size 13
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 237 data points.
+PointCloud representing the Cluster: 128 data points.
+PointCloud representing the Cluster: 124 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 81 data points.
+PointCloud representing the Cluster: 58 data points.
+PointCloud representing the Cluster: 11 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 237
+cluster size 128
+cluster size 124
+cluster size 97
+cluster size 81
+cluster size 58
+cluster size 11
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 241 data points.
+PointCloud representing the Cluster: 118 data points.
+PointCloud representing the Cluster: 117 data points.
+PointCloud representing the Cluster: 83 data points.
+PointCloud representing the Cluster: 65 data points.
+PointCloud representing the Cluster: 55 data points.
+PointCloud representing the Cluster: 32 data points.
+PointCloud representing the Cluster: 18 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 241
+cluster size 118
+cluster size 117
+cluster size 83
+cluster size 65
+cluster size 55
+cluster size 32
+cluster size 18
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 247 data points.
+PointCloud representing the Cluster: 106 data points.
+PointCloud representing the Cluster: 100 data points.
+PointCloud representing the Cluster: 69 data points.
+PointCloud representing the Cluster: 57 data points.
+PointCloud representing the Cluster: 46 data points.
+PointCloud representing the Cluster: 43 data points.
+PointCloud representing the Cluster: 19 data points.
+PointCloud representing the Cluster: 13 data points.
+clustering took 3 milliseconds and found 9 clusters
+cluster size 247
+cluster size 106
+cluster size 100
+cluster size 69
+cluster size 57
+cluster size 46
+cluster size 43
+cluster size 19
+cluster size 13
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 256 data points.
+PointCloud representing the Cluster: 111 data points.
+PointCloud representing the Cluster: 98 data points.
+PointCloud representing the Cluster: 69 data points.
+PointCloud representing the Cluster: 68 data points.
+PointCloud representing the Cluster: 38 data points.
+PointCloud representing the Cluster: 31 data points.
+PointCloud representing the Cluster: 25 data points.
+PointCloud representing the Cluster: 11 data points.
+clustering took 2 milliseconds and found 9 clusters
+cluster size 256
+cluster size 111
+cluster size 98
+cluster size 69
+cluster size 68
+cluster size 38
+cluster size 31
+cluster size 25
+cluster size 11
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 236 data points.
+PointCloud representing the Cluster: 116 data points.
+PointCloud representing the Cluster: 96 data points.
+PointCloud representing the Cluster: 73 data points.
+PointCloud representing the Cluster: 65 data points.
+PointCloud representing the Cluster: 54 data points.
+PointCloud representing the Cluster: 40 data points.
+PointCloud representing the Cluster: 16 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 236
+cluster size 116
+cluster size 96
+cluster size 73
+cluster size 65
+cluster size 54
+cluster size 40
+cluster size 16
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 235 data points.
+PointCloud representing the Cluster: 121 data points.
+PointCloud representing the Cluster: 111 data points.
+PointCloud representing the Cluster: 94 data points.
+PointCloud representing the Cluster: 81 data points.
+PointCloud representing the Cluster: 78 data points.
+PointCloud representing the Cluster: 38 data points.
+PointCloud representing the Cluster: 11 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 235
+cluster size 121
+cluster size 111
+cluster size 94
+cluster size 81
+cluster size 78
+cluster size 38
+cluster size 11
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 238 data points.
+PointCloud representing the Cluster: 126 data points.
+PointCloud representing the Cluster: 119 data points.
+PointCloud representing the Cluster: 93 data points.
+PointCloud representing the Cluster: 73 data points.
+PointCloud representing the Cluster: 73 data points.
+PointCloud representing the Cluster: 37 data points.
+PointCloud representing the Cluster: 15 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 238
+cluster size 126
+cluster size 119
+cluster size 93
+cluster size 73
+cluster size 73
+cluster size 37
+cluster size 15
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 188 data points.
+PointCloud representing the Cluster: 125 data points.
+PointCloud representing the Cluster: 110 data points.
+PointCloud representing the Cluster: 83 data points.
+PointCloud representing the Cluster: 76 data points.
+PointCloud representing the Cluster: 74 data points.
+PointCloud representing the Cluster: 35 data points.
+PointCloud representing the Cluster: 34 data points.
+PointCloud representing the Cluster: 17 data points.
+clustering took 2 milliseconds and found 9 clusters
+cluster size 188
+cluster size 125
+cluster size 110
+cluster size 83
+cluster size 76
+cluster size 74
+cluster size 35
+cluster size 34
+cluster size 17
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 337 data points.
+PointCloud representing the Cluster: 131 data points.
+PointCloud representing the Cluster: 87 data points.
+PointCloud representing the Cluster: 84 data points.
+PointCloud representing the Cluster: 78 data points.
+PointCloud representing the Cluster: 33 data points.
+PointCloud representing the Cluster: 11 data points.
+PointCloud representing the Cluster: 10 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 337
+cluster size 131
+cluster size 87
+cluster size 84
+cluster size 78
+cluster size 33
+cluster size 11
+cluster size 10
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 220 data points.
+PointCloud representing the Cluster: 136 data points.
+PointCloud representing the Cluster: 127 data points.
+PointCloud representing the Cluster: 105 data points.
+PointCloud representing the Cluster: 89 data points.
+PointCloud representing the Cluster: 87 data points.
+PointCloud representing the Cluster: 47 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 220
+cluster size 136
+cluster size 127
+cluster size 105
+cluster size 89
+cluster size 87
+cluster size 47
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 193 data points.
+PointCloud representing the Cluster: 136 data points.
+PointCloud representing the Cluster: 122 data points.
+PointCloud representing the Cluster: 102 data points.
+PointCloud representing the Cluster: 90 data points.
+PointCloud representing the Cluster: 85 data points.
+PointCloud representing the Cluster: 49 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 193
+cluster size 136
+cluster size 122
+cluster size 102
+cluster size 90
+cluster size 85
+cluster size 49
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 202 data points.
+PointCloud representing the Cluster: 139 data points.
+PointCloud representing the Cluster: 122 data points.
+PointCloud representing the Cluster: 86 data points.
+PointCloud representing the Cluster: 84 data points.
+PointCloud representing the Cluster: 82 data points.
+PointCloud representing the Cluster: 52 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 202
+cluster size 139
+cluster size 122
+cluster size 86
+cluster size 84
+cluster size 82
+cluster size 52
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 178 data points.
+PointCloud representing the Cluster: 130 data points.
+PointCloud representing the Cluster: 123 data points.
+PointCloud representing the Cluster: 101 data points.
+PointCloud representing the Cluster: 90 data points.
+PointCloud representing the Cluster: 74 data points.
+PointCloud representing the Cluster: 54 data points.
+PointCloud representing the Cluster: 28 data points.
+clustering took 3 milliseconds and found 8 clusters
+cluster size 178
+cluster size 130
+cluster size 123
+cluster size 101
+cluster size 90
+cluster size 74
+cluster size 54
+cluster size 28
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 129 data points.
+PointCloud representing the Cluster: 125 data points.
+PointCloud representing the Cluster: 111 data points.
+PointCloud representing the Cluster: 95 data points.
+PointCloud representing the Cluster: 93 data points.
+PointCloud representing the Cluster: 91 data points.
+PointCloud representing the Cluster: 83 data points.
+PointCloud representing the Cluster: 57 data points.
+PointCloud representing the Cluster: 12 data points.
+clustering took 3 milliseconds and found 9 clusters
+cluster size 129
+cluster size 125
+cluster size 111
+cluster size 95
+cluster size 93
+cluster size 91
+cluster size 83
+cluster size 57
+cluster size 12
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 131 data points.
+PointCloud representing the Cluster: 122 data points.
+PointCloud representing the Cluster: 107 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 67 data points.
+PointCloud representing the Cluster: 61 data points.
+PointCloud representing the Cluster: 55 data points.
+PointCloud representing the Cluster: 15 data points.
+clustering took 2 milliseconds and found 9 clusters
+cluster size 131
+cluster size 122
+cluster size 107
+cluster size 97
+cluster size 97
+cluster size 67
+cluster size 61
+cluster size 55
+cluster size 15
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 175 data points.
+PointCloud representing the Cluster: 121 data points.
+PointCloud representing the Cluster: 102 data points.
+PointCloud representing the Cluster: 100 data points.
+PointCloud representing the Cluster: 96 data points.
+PointCloud representing the Cluster: 74 data points.
+PointCloud representing the Cluster: 59 data points.
+PointCloud representing the Cluster: 16 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 175
+cluster size 121
+cluster size 102
+cluster size 100
+cluster size 96
+cluster size 74
+cluster size 59
+cluster size 16
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 194 data points.
+PointCloud representing the Cluster: 124 data points.
+PointCloud representing the Cluster: 105 data points.
+PointCloud representing the Cluster: 88 data points.
+PointCloud representing the Cluster: 86 data points.
+PointCloud representing the Cluster: 68 data points.
+PointCloud representing the Cluster: 60 data points.
+PointCloud representing the Cluster: 20 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 194
+cluster size 124
+cluster size 105
+cluster size 88
+cluster size 86
+cluster size 68
+cluster size 60
+cluster size 20
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 206 data points.
+PointCloud representing the Cluster: 129 data points.
+PointCloud representing the Cluster: 106 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 77 data points.
+PointCloud representing the Cluster: 67 data points.
+PointCloud representing the Cluster: 53 data points.
+PointCloud representing the Cluster: 26 data points.
+PointCloud representing the Cluster: 19 data points.
+clustering took 2 milliseconds and found 9 clusters
+cluster size 206
+cluster size 129
+cluster size 106
+cluster size 97
+cluster size 77
+cluster size 67
+cluster size 53
+cluster size 26
+cluster size 19
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 205 data points.
+PointCloud representing the Cluster: 150 data points.
+PointCloud representing the Cluster: 107 data points.
+PointCloud representing the Cluster: 89 data points.
+PointCloud representing the Cluster: 77 data points.
+PointCloud representing the Cluster: 72 data points.
+PointCloud representing the Cluster: 38 data points.
+PointCloud representing the Cluster: 33 data points.
+PointCloud representing the Cluster: 20 data points.
+PointCloud representing the Cluster: 13 data points.
+clustering took 3 milliseconds and found 10 clusters
+cluster size 205
+cluster size 150
+cluster size 107
+cluster size 89
+cluster size 77
+cluster size 72
+cluster size 38
+cluster size 33
+cluster size 20
+cluster size 13
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 214 data points.
+PointCloud representing the Cluster: 155 data points.
+PointCloud representing the Cluster: 109 data points.
+PointCloud representing the Cluster: 82 data points.
+PointCloud representing the Cluster: 82 data points.
+PointCloud representing the Cluster: 81 data points.
+PointCloud representing the Cluster: 73 data points.
+PointCloud representing the Cluster: 18 data points.
+PointCloud representing the Cluster: 16 data points.
+clustering took 3 milliseconds and found 9 clusters
+cluster size 214
+cluster size 155
+cluster size 109
+cluster size 82
+cluster size 82
+cluster size 81
+cluster size 73
+cluster size 18
+cluster size 16
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 153 data points.
+PointCloud representing the Cluster: 145 data points.
+PointCloud representing the Cluster: 115 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 93 data points.
+PointCloud representing the Cluster: 64 data points.
+PointCloud representing the Cluster: 49 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 153
+cluster size 145
+cluster size 115
+cluster size 97
+cluster size 93
+cluster size 64
+cluster size 49
+filtering took 9 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 213 data points.
+PointCloud representing the Cluster: 144 data points.
+PointCloud representing the Cluster: 127 data points.
+PointCloud representing the Cluster: 93 data points.
+PointCloud representing the Cluster: 81 data points.
+PointCloud representing the Cluster: 48 data points.
+PointCloud representing the Cluster: 13 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 213
+cluster size 144
+cluster size 127
+cluster size 93
+cluster size 81
+cluster size 48
+cluster size 13
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 237 data points.
+PointCloud representing the Cluster: 128 data points.
+PointCloud representing the Cluster: 124 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 81 data points.
+PointCloud representing the Cluster: 58 data points.
+PointCloud representing the Cluster: 11 data points.
+clustering took 3 milliseconds and found 7 clusters
+cluster size 237
+cluster size 128
+cluster size 124
+cluster size 97
+cluster size 81
+cluster size 58
+cluster size 11
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 241 data points.
+PointCloud representing the Cluster: 118 data points.
+PointCloud representing the Cluster: 117 data points.
+PointCloud representing the Cluster: 83 data points.
+PointCloud representing the Cluster: 65 data points.
+PointCloud representing the Cluster: 55 data points.
+PointCloud representing the Cluster: 32 data points.
+PointCloud representing the Cluster: 18 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 241
+cluster size 118
+cluster size 117
+cluster size 83
+cluster size 65
+cluster size 55
+cluster size 32
+cluster size 18
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 247 data points.
+PointCloud representing the Cluster: 106 data points.
+PointCloud representing the Cluster: 100 data points.
+PointCloud representing the Cluster: 69 data points.
+PointCloud representing the Cluster: 57 data points.
+PointCloud representing the Cluster: 46 data points.
+PointCloud representing the Cluster: 43 data points.
+PointCloud representing the Cluster: 19 data points.
+PointCloud representing the Cluster: 13 data points.
+clustering took 2 milliseconds and found 9 clusters
+cluster size 247
+cluster size 106
+cluster size 100
+cluster size 69
+cluster size 57
+cluster size 46
+cluster size 43
+cluster size 19
+cluster size 13
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 256 data points.
+PointCloud representing the Cluster: 111 data points.
+PointCloud representing the Cluster: 98 data points.
+PointCloud representing the Cluster: 69 data points.
+PointCloud representing the Cluster: 68 data points.
+PointCloud representing the Cluster: 38 data points.
+PointCloud representing the Cluster: 31 data points.
+PointCloud representing the Cluster: 25 data points.
+PointCloud representing the Cluster: 11 data points.
+clustering took 3 milliseconds and found 9 clusters
+cluster size 256
+cluster size 111
+cluster size 98
+cluster size 69
+cluster size 68
+cluster size 38
+cluster size 31
+cluster size 25
+cluster size 11
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 236 data points.
+PointCloud representing the Cluster: 116 data points.
+PointCloud representing the Cluster: 96 data points.
+PointCloud representing the Cluster: 73 data points.
+PointCloud representing the Cluster: 65 data points.
+PointCloud representing the Cluster: 54 data points.
+PointCloud representing the Cluster: 40 data points.
+PointCloud representing the Cluster: 16 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 236
+cluster size 116
+cluster size 96
+cluster size 73
+cluster size 65
+cluster size 54
+cluster size 40
+cluster size 16
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 235 data points.
+PointCloud representing the Cluster: 121 data points.
+PointCloud representing the Cluster: 111 data points.
+PointCloud representing the Cluster: 94 data points.
+PointCloud representing the Cluster: 81 data points.
+PointCloud representing the Cluster: 78 data points.
+PointCloud representing the Cluster: 38 data points.
+PointCloud representing the Cluster: 11 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 235
+cluster size 121
+cluster size 111
+cluster size 94
+cluster size 81
+cluster size 78
+cluster size 38
+cluster size 11
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 238 data points.
+PointCloud representing the Cluster: 126 data points.
+PointCloud representing the Cluster: 119 data points.
+PointCloud representing the Cluster: 93 data points.
+PointCloud representing the Cluster: 73 data points.
+PointCloud representing the Cluster: 73 data points.
+PointCloud representing the Cluster: 37 data points.
+PointCloud representing the Cluster: 15 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 238
+cluster size 126
+cluster size 119
+cluster size 93
+cluster size 73
+cluster size 73
+cluster size 37
+cluster size 15
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 188 data points.
+PointCloud representing the Cluster: 125 data points.
+PointCloud representing the Cluster: 110 data points.
+PointCloud representing the Cluster: 83 data points.
+PointCloud representing the Cluster: 76 data points.
+PointCloud representing the Cluster: 74 data points.
+PointCloud representing the Cluster: 35 data points.
+PointCloud representing the Cluster: 34 data points.
+PointCloud representing the Cluster: 17 data points.
+clustering took 2 milliseconds and found 9 clusters
+cluster size 188
+cluster size 125
+cluster size 110
+cluster size 83
+cluster size 76
+cluster size 74
+cluster size 35
+cluster size 34
+cluster size 17
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 337 data points.
+PointCloud representing the Cluster: 131 data points.
+PointCloud representing the Cluster: 87 data points.
+PointCloud representing the Cluster: 84 data points.
+PointCloud representing the Cluster: 78 data points.
+PointCloud representing the Cluster: 33 data points.
+PointCloud representing the Cluster: 11 data points.
+PointCloud representing the Cluster: 10 data points.
+clustering took 3 milliseconds and found 8 clusters
+cluster size 337
+cluster size 131
+cluster size 87
+cluster size 84
+cluster size 78
+cluster size 33
+cluster size 11
+cluster size 10
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 220 data points.
+PointCloud representing the Cluster: 136 data points.
+PointCloud representing the Cluster: 127 data points.
+PointCloud representing the Cluster: 105 data points.
+PointCloud representing the Cluster: 89 data points.
+PointCloud representing the Cluster: 87 data points.
+PointCloud representing the Cluster: 47 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 220
+cluster size 136
+cluster size 127
+cluster size 105
+cluster size 89
+cluster size 87
+cluster size 47
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 193 data points.
+PointCloud representing the Cluster: 136 data points.
+PointCloud representing the Cluster: 122 data points.
+PointCloud representing the Cluster: 102 data points.
+PointCloud representing the Cluster: 90 data points.
+PointCloud representing the Cluster: 85 data points.
+PointCloud representing the Cluster: 49 data points.
+clustering took 3 milliseconds and found 7 clusters
+cluster size 193
+cluster size 136
+cluster size 122
+cluster size 102
+cluster size 90
+cluster size 85
+cluster size 49
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 202 data points.
+PointCloud representing the Cluster: 139 data points.
+PointCloud representing the Cluster: 122 data points.
+PointCloud representing the Cluster: 86 data points.
+PointCloud representing the Cluster: 84 data points.
+PointCloud representing the Cluster: 82 data points.
+PointCloud representing the Cluster: 52 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 202
+cluster size 139
+cluster size 122
+cluster size 86
+cluster size 84
+cluster size 82
+cluster size 52
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 178 data points.
+PointCloud representing the Cluster: 130 data points.
+PointCloud representing the Cluster: 123 data points.
+PointCloud representing the Cluster: 101 data points.
+PointCloud representing the Cluster: 90 data points.
+PointCloud representing the Cluster: 74 data points.
+PointCloud representing the Cluster: 54 data points.
+PointCloud representing the Cluster: 28 data points.
+clustering took 3 milliseconds and found 8 clusters
+cluster size 178
+cluster size 130
+cluster size 123
+cluster size 101
+cluster size 90
+cluster size 74
+cluster size 54
+cluster size 28
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 129 data points.
+PointCloud representing the Cluster: 125 data points.
+PointCloud representing the Cluster: 111 data points.
+PointCloud representing the Cluster: 95 data points.
+PointCloud representing the Cluster: 93 data points.
+PointCloud representing the Cluster: 91 data points.
+PointCloud representing the Cluster: 83 data points.
+PointCloud representing the Cluster: 57 data points.
+PointCloud representing the Cluster: 12 data points.
+clustering took 3 milliseconds and found 9 clusters
+cluster size 129
+cluster size 125
+cluster size 111
+cluster size 95
+cluster size 93
+cluster size 91
+cluster size 83
+cluster size 57
+cluster size 12
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 131 data points.
+PointCloud representing the Cluster: 122 data points.
+PointCloud representing the Cluster: 107 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 67 data points.
+PointCloud representing the Cluster: 61 data points.
+PointCloud representing the Cluster: 55 data points.
+PointCloud representing the Cluster: 15 data points.
+clustering took 2 milliseconds and found 9 clusters
+cluster size 131
+cluster size 122
+cluster size 107
+cluster size 97
+cluster size 97
+cluster size 67
+cluster size 61
+cluster size 55
+cluster size 15
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 175 data points.
+PointCloud representing the Cluster: 121 data points.
+PointCloud representing the Cluster: 102 data points.
+PointCloud representing the Cluster: 100 data points.
+PointCloud representing the Cluster: 96 data points.
+PointCloud representing the Cluster: 74 data points.
+PointCloud representing the Cluster: 59 data points.
+PointCloud representing the Cluster: 16 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 175
+cluster size 121
+cluster size 102
+cluster size 100
+cluster size 96
+cluster size 74
+cluster size 59
+cluster size 16
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 194 data points.
+PointCloud representing the Cluster: 124 data points.
+PointCloud representing the Cluster: 105 data points.
+PointCloud representing the Cluster: 88 data points.
+PointCloud representing the Cluster: 86 data points.
+PointCloud representing the Cluster: 68 data points.
+PointCloud representing the Cluster: 60 data points.
+PointCloud representing the Cluster: 20 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 194
+cluster size 124
+cluster size 105
+cluster size 88
+cluster size 86
+cluster size 68
+cluster size 60
+cluster size 20
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 206 data points.
+PointCloud representing the Cluster: 129 data points.
+PointCloud representing the Cluster: 106 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 77 data points.
+PointCloud representing the Cluster: 67 data points.
+PointCloud representing the Cluster: 53 data points.
+PointCloud representing the Cluster: 26 data points.
+PointCloud representing the Cluster: 19 data points.
+clustering took 2 milliseconds and found 9 clusters
+cluster size 206
+cluster size 129
+cluster size 106
+cluster size 97
+cluster size 77
+cluster size 67
+cluster size 53
+cluster size 26
+cluster size 19
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 205 data points.
+PointCloud representing the Cluster: 150 data points.
+PointCloud representing the Cluster: 107 data points.
+PointCloud representing the Cluster: 89 data points.
+PointCloud representing the Cluster: 77 data points.
+PointCloud representing the Cluster: 72 data points.
+PointCloud representing the Cluster: 38 data points.
+PointCloud representing the Cluster: 33 data points.
+PointCloud representing the Cluster: 20 data points.
+PointCloud representing the Cluster: 13 data points.
+clustering took 3 milliseconds and found 10 clusters
+cluster size 205
+cluster size 150
+cluster size 107
+cluster size 89
+cluster size 77
+cluster size 72
+cluster size 38
+cluster size 33
+cluster size 20
+cluster size 13
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 214 data points.
+PointCloud representing the Cluster: 155 data points.
+PointCloud representing the Cluster: 109 data points.
+PointCloud representing the Cluster: 82 data points.
+PointCloud representing the Cluster: 82 data points.
+PointCloud representing the Cluster: 81 data points.
+PointCloud representing the Cluster: 73 data points.
+PointCloud representing the Cluster: 18 data points.
+PointCloud representing the Cluster: 16 data points.
+clustering took 3 milliseconds and found 9 clusters
+cluster size 214
+cluster size 155
+cluster size 109
+cluster size 82
+cluster size 82
+cluster size 81
+cluster size 73
+cluster size 18
+cluster size 16
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 153 data points.
+PointCloud representing the Cluster: 145 data points.
+PointCloud representing the Cluster: 115 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 93 data points.
+PointCloud representing the Cluster: 64 data points.
+PointCloud representing the Cluster: 49 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 153
+cluster size 145
+cluster size 115
+cluster size 97
+cluster size 93
+cluster size 64
+cluster size 49
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 213 data points.
+PointCloud representing the Cluster: 144 data points.
+PointCloud representing the Cluster: 127 data points.
+PointCloud representing the Cluster: 93 data points.
+PointCloud representing the Cluster: 81 data points.
+PointCloud representing the Cluster: 48 data points.
+PointCloud representing the Cluster: 13 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 213
+cluster size 144
+cluster size 127
+cluster size 93
+cluster size 81
+cluster size 48
+cluster size 13
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 237 data points.
+PointCloud representing the Cluster: 128 data points.
+PointCloud representing the Cluster: 124 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 81 data points.
+PointCloud representing the Cluster: 58 data points.
+PointCloud representing the Cluster: 11 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 237
+cluster size 128
+cluster size 124
+cluster size 97
+cluster size 81
+cluster size 58
+cluster size 11
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 241 data points.
+PointCloud representing the Cluster: 118 data points.
+PointCloud representing the Cluster: 117 data points.
+PointCloud representing the Cluster: 83 data points.
+PointCloud representing the Cluster: 65 data points.
+PointCloud representing the Cluster: 55 data points.
+PointCloud representing the Cluster: 32 data points.
+PointCloud representing the Cluster: 18 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 241
+cluster size 118
+cluster size 117
+cluster size 83
+cluster size 65
+cluster size 55
+cluster size 32
+cluster size 18
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 247 data points.
+PointCloud representing the Cluster: 106 data points.
+PointCloud representing the Cluster: 100 data points.
+PointCloud representing the Cluster: 69 data points.
+PointCloud representing the Cluster: 57 data points.
+PointCloud representing the Cluster: 46 data points.
+PointCloud representing the Cluster: 43 data points.
+PointCloud representing the Cluster: 19 data points.
+PointCloud representing the Cluster: 13 data points.
+clustering took 2 milliseconds and found 9 clusters
+cluster size 247
+cluster size 106
+cluster size 100
+cluster size 69
+cluster size 57
+cluster size 46
+cluster size 43
+cluster size 19
+cluster size 13
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 256 data points.
+PointCloud representing the Cluster: 111 data points.
+PointCloud representing the Cluster: 98 data points.
+PointCloud representing the Cluster: 69 data points.
+PointCloud representing the Cluster: 68 data points.
+PointCloud representing the Cluster: 38 data points.
+PointCloud representing the Cluster: 31 data points.
+PointCloud representing the Cluster: 25 data points.
+PointCloud representing the Cluster: 11 data points.
+clustering took 3 milliseconds and found 9 clusters
+cluster size 256
+cluster size 111
+cluster size 98
+cluster size 69
+cluster size 68
+cluster size 38
+cluster size 31
+cluster size 25
+cluster size 11
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 236 data points.
+PointCloud representing the Cluster: 116 data points.
+PointCloud representing the Cluster: 96 data points.
+PointCloud representing the Cluster: 73 data points.
+PointCloud representing the Cluster: 65 data points.
+PointCloud representing the Cluster: 54 data points.
+PointCloud representing the Cluster: 40 data points.
+PointCloud representing the Cluster: 16 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 236
+cluster size 116
+cluster size 96
+cluster size 73
+cluster size 65
+cluster size 54
+cluster size 40
+cluster size 16
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 235 data points.
+PointCloud representing the Cluster: 121 data points.
+PointCloud representing the Cluster: 111 data points.
+PointCloud representing the Cluster: 94 data points.
+PointCloud representing the Cluster: 81 data points.
+PointCloud representing the Cluster: 78 data points.
+PointCloud representing the Cluster: 38 data points.
+PointCloud representing the Cluster: 11 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 235
+cluster size 121
+cluster size 111
+cluster size 94
+cluster size 81
+cluster size 78
+cluster size 38
+cluster size 11
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 238 data points.
+PointCloud representing the Cluster: 126 data points.
+PointCloud representing the Cluster: 119 data points.
+PointCloud representing the Cluster: 93 data points.
+PointCloud representing the Cluster: 73 data points.
+PointCloud representing the Cluster: 73 data points.
+PointCloud representing the Cluster: 37 data points.
+PointCloud representing the Cluster: 15 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 238
+cluster size 126
+cluster size 119
+cluster size 93
+cluster size 73
+cluster size 73
+cluster size 37
+cluster size 15
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 188 data points.
+PointCloud representing the Cluster: 125 data points.
+PointCloud representing the Cluster: 110 data points.
+PointCloud representing the Cluster: 83 data points.
+PointCloud representing the Cluster: 76 data points.
+PointCloud representing the Cluster: 74 data points.
+PointCloud representing the Cluster: 35 data points.
+PointCloud representing the Cluster: 34 data points.
+PointCloud representing the Cluster: 17 data points.
+clustering took 2 milliseconds and found 9 clusters
+cluster size 188
+cluster size 125
+cluster size 110
+cluster size 83
+cluster size 76
+cluster size 74
+cluster size 35
+cluster size 34
+cluster size 17
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 337 data points.
+PointCloud representing the Cluster: 131 data points.
+PointCloud representing the Cluster: 87 data points.
+PointCloud representing the Cluster: 84 data points.
+PointCloud representing the Cluster: 78 data points.
+PointCloud representing the Cluster: 33 data points.
+PointCloud representing the Cluster: 11 data points.
+PointCloud representing the Cluster: 10 data points.
+clustering took 3 milliseconds and found 8 clusters
+cluster size 337
+cluster size 131
+cluster size 87
+cluster size 84
+cluster size 78
+cluster size 33
+cluster size 11
+cluster size 10
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 220 data points.
+PointCloud representing the Cluster: 136 data points.
+PointCloud representing the Cluster: 127 data points.
+PointCloud representing the Cluster: 105 data points.
+PointCloud representing the Cluster: 89 data points.
+PointCloud representing the Cluster: 87 data points.
+PointCloud representing the Cluster: 47 data points.
+clustering took 3 milliseconds and found 7 clusters
+cluster size 220
+cluster size 136
+cluster size 127
+cluster size 105
+cluster size 89
+cluster size 87
+cluster size 47
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 193 data points.
+PointCloud representing the Cluster: 136 data points.
+PointCloud representing the Cluster: 122 data points.
+PointCloud representing the Cluster: 102 data points.
+PointCloud representing the Cluster: 90 data points.
+PointCloud representing the Cluster: 85 data points.
+PointCloud representing the Cluster: 49 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 193
+cluster size 136
+cluster size 122
+cluster size 102
+cluster size 90
+cluster size 85
+cluster size 49
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 202 data points.
+PointCloud representing the Cluster: 139 data points.
+PointCloud representing the Cluster: 122 data points.
+PointCloud representing the Cluster: 86 data points.
+PointCloud representing the Cluster: 84 data points.
+PointCloud representing the Cluster: 82 data points.
+PointCloud representing the Cluster: 52 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 202
+cluster size 139
+cluster size 122
+cluster size 86
+cluster size 84
+cluster size 82
+cluster size 52
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 178 data points.
+PointCloud representing the Cluster: 130 data points.
+PointCloud representing the Cluster: 123 data points.
+PointCloud representing the Cluster: 101 data points.
+PointCloud representing the Cluster: 90 data points.
+PointCloud representing the Cluster: 74 data points.
+PointCloud representing the Cluster: 54 data points.
+PointCloud representing the Cluster: 28 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 178
+cluster size 130
+cluster size 123
+cluster size 101
+cluster size 90
+cluster size 74
+cluster size 54
+cluster size 28
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 129 data points.
+PointCloud representing the Cluster: 125 data points.
+PointCloud representing the Cluster: 111 data points.
+PointCloud representing the Cluster: 95 data points.
+PointCloud representing the Cluster: 93 data points.
+PointCloud representing the Cluster: 91 data points.
+PointCloud representing the Cluster: 83 data points.
+PointCloud representing the Cluster: 57 data points.
+PointCloud representing the Cluster: 12 data points.
+clustering took 3 milliseconds and found 9 clusters
+cluster size 129
+cluster size 125
+cluster size 111
+cluster size 95
+cluster size 93
+cluster size 91
+cluster size 83
+cluster size 57
+cluster size 12
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 131 data points.
+PointCloud representing the Cluster: 122 data points.
+PointCloud representing the Cluster: 107 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 67 data points.
+PointCloud representing the Cluster: 61 data points.
+PointCloud representing the Cluster: 55 data points.
+PointCloud representing the Cluster: 15 data points.
+clustering took 2 milliseconds and found 9 clusters
+cluster size 131
+cluster size 122
+cluster size 107
+cluster size 97
+cluster size 97
+cluster size 67
+cluster size 61
+cluster size 55
+cluster size 15
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 175 data points.
+PointCloud representing the Cluster: 121 data points.
+PointCloud representing the Cluster: 102 data points.
+PointCloud representing the Cluster: 100 data points.
+PointCloud representing the Cluster: 96 data points.
+PointCloud representing the Cluster: 74 data points.
+PointCloud representing the Cluster: 59 data points.
+PointCloud representing the Cluster: 16 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 175
+cluster size 121
+cluster size 102
+cluster size 100
+cluster size 96
+cluster size 74
+cluster size 59
+cluster size 16
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 194 data points.
+PointCloud representing the Cluster: 124 data points.
+PointCloud representing the Cluster: 105 data points.
+PointCloud representing the Cluster: 88 data points.
+PointCloud representing the Cluster: 86 data points.
+PointCloud representing the Cluster: 68 data points.
+PointCloud representing the Cluster: 60 data points.
+PointCloud representing the Cluster: 20 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 194
+cluster size 124
+cluster size 105
+cluster size 88
+cluster size 86
+cluster size 68
+cluster size 60
+cluster size 20
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 206 data points.
+PointCloud representing the Cluster: 129 data points.
+PointCloud representing the Cluster: 106 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 77 data points.
+PointCloud representing the Cluster: 67 data points.
+PointCloud representing the Cluster: 53 data points.
+PointCloud representing the Cluster: 26 data points.
+PointCloud representing the Cluster: 19 data points.
+clustering took 2 milliseconds and found 9 clusters
+cluster size 206
+cluster size 129
+cluster size 106
+cluster size 97
+cluster size 77
+cluster size 67
+cluster size 53
+cluster size 26
+cluster size 19
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 205 data points.
+PointCloud representing the Cluster: 150 data points.
+PointCloud representing the Cluster: 107 data points.
+PointCloud representing the Cluster: 89 data points.
+PointCloud representing the Cluster: 77 data points.
+PointCloud representing the Cluster: 72 data points.
+PointCloud representing the Cluster: 38 data points.
+PointCloud representing the Cluster: 33 data points.
+PointCloud representing the Cluster: 20 data points.
+PointCloud representing the Cluster: 13 data points.
+clustering took 2 milliseconds and found 10 clusters
+cluster size 205
+cluster size 150
+cluster size 107
+cluster size 89
+cluster size 77
+cluster size 72
+cluster size 38
+cluster size 33
+cluster size 20
+cluster size 13
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 214 data points.
+PointCloud representing the Cluster: 155 data points.
+PointCloud representing the Cluster: 109 data points.
+PointCloud representing the Cluster: 82 data points.
+PointCloud representing the Cluster: 82 data points.
+PointCloud representing the Cluster: 81 data points.
+PointCloud representing the Cluster: 73 data points.
+PointCloud representing the Cluster: 18 data points.
+PointCloud representing the Cluster: 16 data points.
+clustering took 3 milliseconds and found 9 clusters
+cluster size 214
+cluster size 155
+cluster size 109
+cluster size 82
+cluster size 82
+cluster size 81
+cluster size 73
+cluster size 18
+cluster size 16
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 153 data points.
+PointCloud representing the Cluster: 145 data points.
+PointCloud representing the Cluster: 115 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 93 data points.
+PointCloud representing the Cluster: 64 data points.
+PointCloud representing the Cluster: 49 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 153
+cluster size 145
+cluster size 115
+cluster size 97
+cluster size 93
+cluster size 64
+cluster size 49
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 213 data points.
+PointCloud representing the Cluster: 144 data points.
+PointCloud representing the Cluster: 127 data points.
+PointCloud representing the Cluster: 93 data points.
+PointCloud representing the Cluster: 81 data points.
+PointCloud representing the Cluster: 48 data points.
+PointCloud representing the Cluster: 13 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 213
+cluster size 144
+cluster size 127
+cluster size 93
+cluster size 81
+cluster size 48
+cluster size 13
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 237 data points.
+PointCloud representing the Cluster: 128 data points.
+PointCloud representing the Cluster: 124 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 81 data points.
+PointCloud representing the Cluster: 58 data points.
+PointCloud representing the Cluster: 11 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 237
+cluster size 128
+cluster size 124
+cluster size 97
+cluster size 81
+cluster size 58
+cluster size 11
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 241 data points.
+PointCloud representing the Cluster: 118 data points.
+PointCloud representing the Cluster: 117 data points.
+PointCloud representing the Cluster: 83 data points.
+PointCloud representing the Cluster: 65 data points.
+PointCloud representing the Cluster: 55 data points.
+PointCloud representing the Cluster: 32 data points.
+PointCloud representing the Cluster: 18 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 241
+cluster size 118
+cluster size 117
+cluster size 83
+cluster size 65
+cluster size 55
+cluster size 32
+cluster size 18
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 247 data points.
+PointCloud representing the Cluster: 106 data points.
+PointCloud representing the Cluster: 100 data points.
+PointCloud representing the Cluster: 69 data points.
+PointCloud representing the Cluster: 57 data points.
+PointCloud representing the Cluster: 46 data points.
+PointCloud representing the Cluster: 43 data points.
+PointCloud representing the Cluster: 19 data points.
+PointCloud representing the Cluster: 13 data points.
+clustering took 2 milliseconds and found 9 clusters
+cluster size 247
+cluster size 106
+cluster size 100
+cluster size 69
+cluster size 57
+cluster size 46
+cluster size 43
+cluster size 19
+cluster size 13
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 256 data points.
+PointCloud representing the Cluster: 111 data points.
+PointCloud representing the Cluster: 98 data points.
+PointCloud representing the Cluster: 69 data points.
+PointCloud representing the Cluster: 68 data points.
+PointCloud representing the Cluster: 38 data points.
+PointCloud representing the Cluster: 31 data points.
+PointCloud representing the Cluster: 25 data points.
+PointCloud representing the Cluster: 11 data points.
+clustering took 3 milliseconds and found 9 clusters
+cluster size 256
+cluster size 111
+cluster size 98
+cluster size 69
+cluster size 68
+cluster size 38
+cluster size 31
+cluster size 25
+cluster size 11
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 236 data points.
+PointCloud representing the Cluster: 116 data points.
+PointCloud representing the Cluster: 96 data points.
+PointCloud representing the Cluster: 73 data points.
+PointCloud representing the Cluster: 65 data points.
+PointCloud representing the Cluster: 54 data points.
+PointCloud representing the Cluster: 40 data points.
+PointCloud representing the Cluster: 16 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 236
+cluster size 116
+cluster size 96
+cluster size 73
+cluster size 65
+cluster size 54
+cluster size 40
+cluster size 16
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 235 data points.
+PointCloud representing the Cluster: 121 data points.
+PointCloud representing the Cluster: 111 data points.
+PointCloud representing the Cluster: 94 data points.
+PointCloud representing the Cluster: 81 data points.
+PointCloud representing the Cluster: 78 data points.
+PointCloud representing the Cluster: 38 data points.
+PointCloud representing the Cluster: 11 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 235
+cluster size 121
+cluster size 111
+cluster size 94
+cluster size 81
+cluster size 78
+cluster size 38
+cluster size 11
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 238 data points.
+PointCloud representing the Cluster: 126 data points.
+PointCloud representing the Cluster: 119 data points.
+PointCloud representing the Cluster: 93 data points.
+PointCloud representing the Cluster: 73 data points.
+PointCloud representing the Cluster: 73 data points.
+PointCloud representing the Cluster: 37 data points.
+PointCloud representing the Cluster: 15 data points.
+clustering took 3 milliseconds and found 8 clusters
+cluster size 238
+cluster size 126
+cluster size 119
+cluster size 93
+cluster size 73
+cluster size 73
+cluster size 37
+cluster size 15
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 188 data points.
+PointCloud representing the Cluster: 125 data points.
+PointCloud representing the Cluster: 110 data points.
+PointCloud representing the Cluster: 83 data points.
+PointCloud representing the Cluster: 76 data points.
+PointCloud representing the Cluster: 74 data points.
+PointCloud representing the Cluster: 35 data points.
+PointCloud representing the Cluster: 34 data points.
+PointCloud representing the Cluster: 17 data points.
+clustering took 2 milliseconds and found 9 clusters
+cluster size 188
+cluster size 125
+cluster size 110
+cluster size 83
+cluster size 76
+cluster size 74
+cluster size 35
+cluster size 34
+cluster size 17
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 337 data points.
+PointCloud representing the Cluster: 131 data points.
+PointCloud representing the Cluster: 87 data points.
+PointCloud representing the Cluster: 84 data points.
+PointCloud representing the Cluster: 78 data points.
+PointCloud representing the Cluster: 33 data points.
+PointCloud representing the Cluster: 11 data points.
+PointCloud representing the Cluster: 10 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 337
+cluster size 131
+cluster size 87
+cluster size 84
+cluster size 78
+cluster size 33
+cluster size 11
+cluster size 10
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 220 data points.
+PointCloud representing the Cluster: 136 data points.
+PointCloud representing the Cluster: 127 data points.
+PointCloud representing the Cluster: 105 data points.
+PointCloud representing the Cluster: 89 data points.
+PointCloud representing the Cluster: 87 data points.
+PointCloud representing the Cluster: 47 data points.
+clustering took 3 milliseconds and found 7 clusters
+cluster size 220
+cluster size 136
+cluster size 127
+cluster size 105
+cluster size 89
+cluster size 87
+cluster size 47
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 193 data points.
+PointCloud representing the Cluster: 136 data points.
+PointCloud representing the Cluster: 122 data points.
+PointCloud representing the Cluster: 102 data points.
+PointCloud representing the Cluster: 90 data points.
+PointCloud representing the Cluster: 85 data points.
+PointCloud representing the Cluster: 49 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 193
+cluster size 136
+cluster size 122
+cluster size 102
+cluster size 90
+cluster size 85
+cluster size 49
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 202 data points.
+PointCloud representing the Cluster: 139 data points.
+PointCloud representing the Cluster: 122 data points.
+PointCloud representing the Cluster: 86 data points.
+PointCloud representing the Cluster: 84 data points.
+PointCloud representing the Cluster: 82 data points.
+PointCloud representing the Cluster: 52 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 202
+cluster size 139
+cluster size 122
+cluster size 86
+cluster size 84
+cluster size 82
+cluster size 52
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 178 data points.
+PointCloud representing the Cluster: 130 data points.
+PointCloud representing the Cluster: 123 data points.
+PointCloud representing the Cluster: 101 data points.
+PointCloud representing the Cluster: 90 data points.
+PointCloud representing the Cluster: 74 data points.
+PointCloud representing the Cluster: 54 data points.
+PointCloud representing the Cluster: 28 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 178
+cluster size 130
+cluster size 123
+cluster size 101
+cluster size 90
+cluster size 74
+cluster size 54
+cluster size 28
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 129 data points.
+PointCloud representing the Cluster: 125 data points.
+PointCloud representing the Cluster: 111 data points.
+PointCloud representing the Cluster: 95 data points.
+PointCloud representing the Cluster: 93 data points.
+PointCloud representing the Cluster: 91 data points.
+PointCloud representing the Cluster: 83 data points.
+PointCloud representing the Cluster: 57 data points.
+PointCloud representing the Cluster: 12 data points.
+clustering took 3 milliseconds and found 9 clusters
+cluster size 129
+cluster size 125
+cluster size 111
+cluster size 95
+cluster size 93
+cluster size 91
+cluster size 83
+cluster size 57
+cluster size 12
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 131 data points.
+PointCloud representing the Cluster: 122 data points.
+PointCloud representing the Cluster: 107 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 67 data points.
+PointCloud representing the Cluster: 61 data points.
+PointCloud representing the Cluster: 55 data points.
+PointCloud representing the Cluster: 15 data points.
+clustering took 2 milliseconds and found 9 clusters
+cluster size 131
+cluster size 122
+cluster size 107
+cluster size 97
+cluster size 97
+cluster size 67
+cluster size 61
+cluster size 55
+cluster size 15
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 175 data points.
+PointCloud representing the Cluster: 121 data points.
+PointCloud representing the Cluster: 102 data points.
+PointCloud representing the Cluster: 100 data points.
+PointCloud representing the Cluster: 96 data points.
+PointCloud representing the Cluster: 74 data points.
+PointCloud representing the Cluster: 59 data points.
+PointCloud representing the Cluster: 16 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 175
+cluster size 121
+cluster size 102
+cluster size 100
+cluster size 96
+cluster size 74
+cluster size 59
+cluster size 16
+filtering took 7 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 194 data points.
+PointCloud representing the Cluster: 124 data points.
+PointCloud representing the Cluster: 105 data points.
+PointCloud representing the Cluster: 88 data points.
+PointCloud representing the Cluster: 86 data points.
+PointCloud representing the Cluster: 68 data points.
+PointCloud representing the Cluster: 60 data points.
+PointCloud representing the Cluster: 20 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 194
+cluster size 124
+cluster size 105
+cluster size 88
+cluster size 86
+cluster size 68
+cluster size 60
+cluster size 20
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 206 data points.
+PointCloud representing the Cluster: 129 data points.
+PointCloud representing the Cluster: 106 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 77 data points.
+PointCloud representing the Cluster: 67 data points.
+PointCloud representing the Cluster: 53 data points.
+PointCloud representing the Cluster: 26 data points.
+PointCloud representing the Cluster: 19 data points.
+clustering took 2 milliseconds and found 9 clusters
+cluster size 206
+cluster size 129
+cluster size 106
+cluster size 97
+cluster size 77
+cluster size 67
+cluster size 53
+cluster size 26
+cluster size 19
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 205 data points.
+PointCloud representing the Cluster: 150 data points.
+PointCloud representing the Cluster: 107 data points.
+PointCloud representing the Cluster: 89 data points.
+PointCloud representing the Cluster: 77 data points.
+PointCloud representing the Cluster: 72 data points.
+PointCloud representing the Cluster: 38 data points.
+PointCloud representing the Cluster: 33 data points.
+PointCloud representing the Cluster: 20 data points.
+PointCloud representing the Cluster: 13 data points.
+clustering took 2 milliseconds and found 10 clusters
+cluster size 205
+cluster size 150
+cluster size 107
+cluster size 89
+cluster size 77
+cluster size 72
+cluster size 38
+cluster size 33
+cluster size 20
+cluster size 13
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 214 data points.
+PointCloud representing the Cluster: 155 data points.
+PointCloud representing the Cluster: 109 data points.
+PointCloud representing the Cluster: 82 data points.
+PointCloud representing the Cluster: 82 data points.
+PointCloud representing the Cluster: 81 data points.
+PointCloud representing the Cluster: 73 data points.
+PointCloud representing the Cluster: 18 data points.
+PointCloud representing the Cluster: 16 data points.
+clustering took 3 milliseconds and found 9 clusters
+cluster size 214
+cluster size 155
+cluster size 109
+cluster size 82
+cluster size 82
+cluster size 81
+cluster size 73
+cluster size 18
+cluster size 16
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 153 data points.
+PointCloud representing the Cluster: 145 data points.
+PointCloud representing the Cluster: 115 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 93 data points.
+PointCloud representing the Cluster: 64 data points.
+PointCloud representing the Cluster: 49 data points.
+clustering took 3 milliseconds and found 7 clusters
+cluster size 153
+cluster size 145
+cluster size 115
+cluster size 97
+cluster size 93
+cluster size 64
+cluster size 49
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 213 data points.
+PointCloud representing the Cluster: 144 data points.
+PointCloud representing the Cluster: 127 data points.
+PointCloud representing the Cluster: 93 data points.
+PointCloud representing the Cluster: 81 data points.
+PointCloud representing the Cluster: 48 data points.
+PointCloud representing the Cluster: 13 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 213
+cluster size 144
+cluster size 127
+cluster size 93
+cluster size 81
+cluster size 48
+cluster size 13
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 237 data points.
+PointCloud representing the Cluster: 128 data points.
+PointCloud representing the Cluster: 124 data points.
+PointCloud representing the Cluster: 97 data points.
+PointCloud representing the Cluster: 81 data points.
+PointCloud representing the Cluster: 58 data points.
+PointCloud representing the Cluster: 11 data points.
+clustering took 2 milliseconds and found 7 clusters
+cluster size 237
+cluster size 128
+cluster size 124
+cluster size 97
+cluster size 81
+cluster size 58
+cluster size 11
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 241 data points.
+PointCloud representing the Cluster: 118 data points.
+PointCloud representing the Cluster: 117 data points.
+PointCloud representing the Cluster: 83 data points.
+PointCloud representing the Cluster: 65 data points.
+PointCloud representing the Cluster: 55 data points.
+PointCloud representing the Cluster: 32 data points.
+PointCloud representing the Cluster: 18 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 241
+cluster size 118
+cluster size 117
+cluster size 83
+cluster size 65
+cluster size 55
+cluster size 32
+cluster size 18
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 247 data points.
+PointCloud representing the Cluster: 106 data points.
+PointCloud representing the Cluster: 100 data points.
+PointCloud representing the Cluster: 69 data points.
+PointCloud representing the Cluster: 57 data points.
+PointCloud representing the Cluster: 46 data points.
+PointCloud representing the Cluster: 43 data points.
+PointCloud representing the Cluster: 19 data points.
+PointCloud representing the Cluster: 13 data points.
+clustering took 2 milliseconds and found 9 clusters
+cluster size 247
+cluster size 106
+cluster size 100
+cluster size 69
+cluster size 57
+cluster size 46
+cluster size 43
+cluster size 19
+cluster size 13
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 256 data points.
+PointCloud representing the Cluster: 111 data points.
+PointCloud representing the Cluster: 98 data points.
+PointCloud representing the Cluster: 69 data points.
+PointCloud representing the Cluster: 68 data points.
+PointCloud representing the Cluster: 38 data points.
+PointCloud representing the Cluster: 31 data points.
+PointCloud representing the Cluster: 25 data points.
+PointCloud representing the Cluster: 11 data points.
+clustering took 2 milliseconds and found 9 clusters
+cluster size 256
+cluster size 111
+cluster size 98
+cluster size 69
+cluster size 68
+cluster size 38
+cluster size 31
+cluster size 25
+cluster size 11
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 236 data points.
+PointCloud representing the Cluster: 116 data points.
+PointCloud representing the Cluster: 96 data points.
+PointCloud representing the Cluster: 73 data points.
+PointCloud representing the Cluster: 65 data points.
+PointCloud representing the Cluster: 54 data points.
+PointCloud representing the Cluster: 40 data points.
+PointCloud representing the Cluster: 16 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 236
+cluster size 116
+cluster size 96
+cluster size 73
+cluster size 65
+cluster size 54
+cluster size 40
+cluster size 16
+filtering took 6 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 235 data points.
+PointCloud representing the Cluster: 121 data points.
+PointCloud representing the Cluster: 111 data points.
+PointCloud representing the Cluster: 94 data points.
+PointCloud representing the Cluster: 81 data points.
+PointCloud representing the Cluster: 78 data points.
+PointCloud representing the Cluster: 38 data points.
+PointCloud representing the Cluster: 11 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 235
+cluster size 121
+cluster size 111
+cluster size 94
+cluster size 81
+cluster size 78
+cluster size 38
+cluster size 11
+filtering took 5 milliseconds
+plane segmentation took 0 milliseconds
+PointCloud representing the Cluster: 238 data points.
+PointCloud representing the Cluster: 126 data points.
+PointCloud representing the Cluster: 119 data points.
+PointCloud representing the Cluster: 93 data points.
+PointCloud representing the Cluster: 73 data points.
+PointCloud representing the Cluster: 73 data points.
+PointCloud representing the Cluster: 37 data points.
+PointCloud representing the Cluster: 15 data points.
+clustering took 2 milliseconds and found 8 clusters
+cluster size 238
+cluster size 126
+cluster size 119
+cluster size 93
+cluster size 73
+cluster size 73
+cluster size 37
+cluster size 15

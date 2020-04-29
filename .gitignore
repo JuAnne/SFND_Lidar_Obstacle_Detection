@@ -1,7 +1,5 @@
-# Ignore build and devel folders
+# Ignore build folders
 build
-devel
 
 # Ignore all log files
 *.log
-*.catkin_workspace
