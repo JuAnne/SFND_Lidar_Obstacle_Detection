@@ -62,3 +62,23 @@ NOTE: very old version
 [PCL Source Github](https://github.com/PointCloudLibrary/pcl)
 
 [PCL Mac Compilation Docs](http://www.pointclouds.org/documentation/tutorials/compiling_pcl_macosx.php)
+
+
+
+## Code Structure
+
+```bash
+Top-level CMakeLists.txt
+Readme
+src
+	render
+		box.h - this file has the struct definitions for box objects
+		render.h
+		render.cpp - this file, along with the header, define the classes and methods for rendering objects.
+	sensors
+		data - this directory contains pcd data used in the course.
+		lidar.h - has functions using ray casting for creating pcd.
+	environment.cpp - the main file for using pcl viewer and processing and visualizing pcd.
+	processPointClouds.h
+	processPointClouds.cpp - Functions for filtering, segmenting, clustering, boxing, loading, and saving pcd.
+```
