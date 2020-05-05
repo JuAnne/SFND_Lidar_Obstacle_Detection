@@ -69,14 +69,10 @@ std::unordered_set<int> Ransac(pcl::PointCloud<pcl::PointXYZ>::Ptr cloud, int ma
 	srand(time(NULL));
 	
 	// TODO: Fill in this function
-
 	// For max iterations 
-
 	// Randomly sample subset and fit line
-
 	// Measure distance between every point and fitted line
 	// If distance is smaller than threshold count it as inlier
-
 	// Return indicies of inliers from fitted line with most inliers
 	while(maxIterations--)
 	{
@@ -94,6 +90,10 @@ std::unordered_set<int> Ransac(pcl::PointCloud<pcl::PointXYZ>::Ptr cloud, int ma
 		x2 = cloud->points[*itr].x;
 		y2 = cloud->points[*itr].y;
 
+		// Equation of a line through two points in 2D, use distance to fit the best line
+		// Line formula ax + by + c = 0
+		// Point (x,y)
+		// Distance d = |ax+by+c|/sqrt(a^2+b^2)
 		float a = (y1-y2);
 		float b = (x2-x1);
 		float c = (x1*y2-x2*y1);
@@ -113,6 +113,7 @@ std::unordered_set<int> Ransac(pcl::PointCloud<pcl::PointXYZ>::Ptr cloud, int ma
 				inliers.insert(index);
 		}
 
+		// The line with the most inliers will be the best model
 		if(inliers.size() > inliersResult.size())
 		{
 			inliersResult = inliers;
@@ -157,6 +158,7 @@ std::unordered_set<int> RansacPlane(pcl::PointCloud<pcl::PointXYZ>::Ptr cloud, i
 		y3 = cloud->points[*itr].y;
 		z3 = cloud->points[*itr].z;
 		
+		// Equation of a plane through three points
 		float a = ((y2-y1)*(z3-z1)-(z2-z1)*(y3-y1));
 		float b = ((z2-z1)*(x3-x1)-(x2-x1)*(z3-z1));
 		float c = ((x2-x1)*(y3-y1)-(y2-y1)*(x3-x1));
